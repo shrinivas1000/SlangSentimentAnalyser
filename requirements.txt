@@ -1,0 +1,5 @@
+streamlit
+tensorflow-macos
+emoji
+numpy
+scikit-learn
