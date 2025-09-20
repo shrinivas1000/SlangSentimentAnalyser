@@ -1,5 +1,5 @@
 streamlit
-tensorflow-macos
+tensorflow==2.16.2
 emoji
 numpy
 scikit-learn
