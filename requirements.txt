@@ -1,5 +1,5 @@
 streamlit
-tensorflow==2.16.2
-emoji
+tensorflow==2.20.0
+emoji==2.14.0
 numpy
 scikit-learn
